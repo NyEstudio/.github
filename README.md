@@ -1,6 +1,6 @@
 <div align="center">
  <img src="./assets/logo.svg" alt="NyEstudio Logo" width="110" />
-  <h1>NyEstudio</h1>
+  <h1>NyeStudio</h1>
   <p><strong>Software Engineering & Digital Product Studio</strong></p>
   <p>Arquitectura de software, desarrollo full-stack y soluciones digitales diseñadas al detalle.</p>
 </div>
