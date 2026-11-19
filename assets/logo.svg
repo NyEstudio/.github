@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Fondo cuadrado redondeado -->
+  <rect width="512" height="512" rx="96" fill="#181A20" />
+
+  <!-- ========================================== -->
+  <!-- CARA SUPERIOR (Tapa isométrica)            -->
+  <!-- ========================================== -->
+  <!-- Tapa superior blanca (continuación de la N) -->
+  <polygon points="136,184 166,166 256,218 226,236" fill="#F8FAFC" />
+  <polygon points="184,156 214,138 274,173 244,191" fill="#F8FAFC" />
+
+  <!-- Tapa superior violeta/índigo (continuación de la E) -->
+  <polygon points="228,130 256,114 376,184 348,200" fill="#818CF8" />
+
+  <!-- ========================================== -->
+  <!-- CARA IZQUIERDA: Letra N (Blanco puro)      -->
+  <!-- ========================================== -->
+  <!-- Polígono único continuo con los huecos internos reales de la N -->
+  <polygon points="
+    136,184 
+    166,201 
+    226,306 
+    226,236 
+    256,253 
+    256,396 
+    226,379 
+    166,274 
+    166,344 
+    136,327" fill="#F8FAFC" />
+
+  <!-- ========================================== -->
+  <!-- CARA DERECHA: Letra E (Índigo / Violeta)   -->
+  <!-- ========================================== -->
+  <!-- Polígono único con las 3 barras horizontales y sus 2 huecos -->
+  <polygon points="
+    256,253 
+    376,184 
+    376,218 
+    286,270 
+    286,296 
+    364,251 
+    364,283 
+    286,328 
+    286,345 
+    376,293 
+    376,327 
+    256,396" fill="#6366F1" />
+
+  <!-- Bisel sutil de separación central para dar volumen 3D -->
+  <line x1="256" y1="253" x2="256" y2="396" stroke="#181A20" stroke-width="3" />
+</svg>
