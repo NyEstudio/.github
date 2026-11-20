@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/NyEstudio/.github/main/assets/logo.svg" alt="NyEstudio Logo" width="110" />
-  <h1>NyEstudio</h1>
+  <h1>NyeStudio</h1>
   <p><strong>Dos desarrolladores construyendo software juntos</strong></p>
   <p>Nuestro espacio compartido para diseñar, programar y dar vida a ideas, herramientas y proyectos propios.</p>
 </div>
@@ -9,7 +9,7 @@
 
 ### Qué hacemos
 
-En **NyEstudio** unimos fuerzas para desarrollar código a cuatro manos. Aquí reunimos nuestros proyectos conjuntos, experimentos técnicos y aplicaciones funcionales:
+En **NyeStudio** unimos fuerzas para desarrollar código a cuatro manos. Aquí reunimos nuestros proyectos conjuntos, experimentos técnicos y aplicaciones funcionales:
 
 * **Proyectos propios y herramientas:** Creamos software útil para resolver problemas reales, desde plataformas web completas hasta utilidades de gestión y automatización.
 * **Diseño + Ingeniería:** Combinamos la arquitectura backend y la lógica de sistemas con interfaces limpias y cuidadas al detalle.
