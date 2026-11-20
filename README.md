@@ -1,35 +1,35 @@
 <div align="center">
- <img src="./assets/logo.svg" alt="NyEstudio Logo" width="110" />
+  <img src="https://raw.githubusercontent.com/NyEstudio/.github/main/assets/logo.svg" alt="NyEstudio Logo" width="110" />
   <h1>NyeStudio</h1>
-  <p><strong>Software Engineering & Digital Product Studio</strong></p>
-  <p>Arquitectura de software, desarrollo full-stack y soluciones digitales diseñadas al detalle.</p>
+  <p><strong>Dos desarrolladores construyendo software juntos</strong></p>
+  <p>Nuestro espacio compartido para diseñar, programar y dar vida a ideas, herramientas y proyectos propios.</p>
 </div>
 
 ---
 
 ### Qué hacemos
 
-En **NyEstudio** combinamos ingeniería de software, diseño de interfaces y automatización para construir herramientas prácticas y productos digitales modernos:
+En **NyeStudio** unimos fuerzas para desarrollar código a cuatro manos. Aquí reunimos nuestros proyectos conjuntos, experimentos técnicos y aplicaciones funcionales:
 
-* **Desarrollo Full-Stack & Web Apps:** Aplicaciones reactivas, paneles de gestión y APIs robustas.
-* **Herramientas Operativas y Gestión:** Software orientado a optimizar procesos técnicos, flujos de trabajo y control de operaciones.
-* **Arquitectura y Despliegue:** Infraestructura limpia, contenedores y automatización continua.
+* **Proyectos propios y herramientas:** Creamos software útil para resolver problemas reales, desde plataformas web completas hasta utilidades de gestión y automatización.
+* **Diseño + Ingeniería:** Combinamos la arquitectura backend y la lógica de sistemas con interfaces limpias y cuidadas al detalle.
+* **Aprendizaje continuo:** Un laboratorio para probar nuevas tecnologías, compartir buenas prácticas y mantener nuestros repositorios organizados en equipo.
 
 ---
 
-### Stack Tecnológico
+### Nuestro Stack Habitual
 
-* **Frontend:** React, TypeScript, Next.js, Tailwind CSS
+* **Frontend:** React, Angular, TypeScript, Next.js, Tailwind CSS
 * **Backend & Datos:** Node.js, PHP, Java, MySQL, PostgreSQL
 * **Móvil & Multiplataforma:** Kotlin, Android
-* **Infraestructura & Herramientas:** Docker, Linux, Git, GitHub Actions
+* **Entorno & Despliegue:** Docker, Linux, Git, GitHub Actions
 
 ---
 
-### Información
+### Dónde encontrarnos
 
 * **Ubicación:** España
-* **Proyectos:** En desarrollo activo
+* **Contacto:** `contacto@soridev.com`
 
 ---
 
